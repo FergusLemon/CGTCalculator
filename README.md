@@ -1,6 +1,6 @@
-# cgt-calculator
+# Overview cgt-calculator 
 
-FIXME: description
+WIP - a tool to calculate capital gains tax (CGT) in the UK for cryptocurrency trades. 
 
 ## Installation
 
