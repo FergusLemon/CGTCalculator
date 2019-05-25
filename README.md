@@ -4,17 +4,15 @@ WIP - a tool to calculate capital gains tax (CGT) in the UK for cryptocurrency t
 
 ## Installation
 
-Download from http://example.com/FIXME.
+
 
 ## Usage
 
-FIXME: explanation
 
-    $ java -jar cgt-calculator-0.1.0-standalone.jar [args]
 
 ## Options
 
-FIXME: listing of options this app accepts.
+
 
 ## Examples
 
